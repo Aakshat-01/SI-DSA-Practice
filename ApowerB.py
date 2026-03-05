@@ -1,5 +1,5 @@
 # A power B 
-# Given 2 numbers - A and B, evaluate AB.
+# Given 2 numbers - A and B, evaluate ApowerB.
 
 t=int(input())
 for _ in range(t):
